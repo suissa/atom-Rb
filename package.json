@@ -1,0 +1,31 @@
+{
+  "name": "atom-rb",
+  "version": "1.0.0",
+  "description": "Propriedades do átomo de Rubídio",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node preinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suissa/atom-Rb.git"
+  },
+  "keywords": [
+    "atom",
+    "átomo",
+    "rb",
+    "Rubídio",
+    "química",
+    "chemistry",
+    "webschool"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/suissa/atom-Rb/issues"
+  },
+  "homepage": "https://github.com/suissa/atom-Rb#readme"
+}
